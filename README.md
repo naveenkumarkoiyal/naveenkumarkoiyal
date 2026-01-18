@@ -32,5 +32,5 @@ I enjoy learning by building real-world projects and improving my development sk
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: linkedin.com/in/naveen-kumar-22098438a
-- GitHub: https://github.com/naveenkumar-0007
+- LinkedIn: https://linkedin.com/in/naveen-kumar-22098438a
+- GitHub: https://github.com/naveenkumarkoiyal
